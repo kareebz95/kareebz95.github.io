@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Futura XBlkCnIt BT';
+	src: url(../../assets/fonts/FuturaBT-ExtraBlackCondItalic.woff2) format('woff2'),
+	url(../../assets/fonts/FuturaBT-ExtraBlackCondItalic.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+}
