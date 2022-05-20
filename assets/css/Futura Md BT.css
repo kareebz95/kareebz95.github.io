@@ -4,4 +4,5 @@
 	url(../../assets/fonts/FuturaBT-BoldItalic.woff) format('woff');
 	font-weight: bold;
 	font-style: italic;
+	font-display: auto;
 }
